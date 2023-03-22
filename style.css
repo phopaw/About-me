@@ -1,0 +1,18 @@
+.navbar li:hover {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+img {
+  width: 75vw;
+}
+
+
+.container {
+  position: relative;
+  width: 100%;
+}
+
+.indexLinks {
+  text-align: center;
+}
